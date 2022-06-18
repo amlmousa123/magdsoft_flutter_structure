@@ -1,3 +1,3 @@
 const String baseURL = "https://magdsoft-internship.herokuapp.com/api/";
-const String register_endPoint= "register";
-const String login_endPoint= "login";
+const String registerUrl= "https://magdsoft-internship.herokuapp.com/api/register";
+const String loginUrl= "https://magdsoft-internship.herokuapp.com/api/login";
